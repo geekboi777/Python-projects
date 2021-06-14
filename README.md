@@ -1,1 +1,1 @@
-# Basic classical pong game made using python 
+# Basic games made using python 
